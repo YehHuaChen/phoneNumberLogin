@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">phoneNumberLogin</string>
+
+    <string name="activity_login_title">登入</string>
+    <string name="activity_login_login_hint">使用手機號碼快速登入！</string>
+    <string name="activity_login_input_phone_number">請輸入手機號碼</string>
+    <string name="activity_login_check_legal_documents">已閱讀並同意法律文件</string>
+    <string name="activity_login_get_verify_code">取得驗證碼</string>
+
+    <string name="activity_verify_title">驗證</string>
+    <string name="activity_verify_verify_hint">簡訊驗證</string>
+    <string name="activity_verify_input_verify_code">請輸入您收到的簡訊驗證碼</string>
+    <string name="activity_verify_verify">驗證</string>
+    <string name="activity_verify_resend_hint">尚未收到簡訊驗證碼？重新發送</string>
 </resources>
